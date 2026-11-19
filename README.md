@@ -1,6 +1,6 @@
 ### Hi, I'm Marcos Fraga 👋
 
-Backend & Full Stack Developer based in Recife, Brazil. Currently studying **Systems Analysis and Development (ADS) at CESAR School** and working as a **Full Stack Developer at ARPE** (Pernambuco State Regulatory Agency), building reliable APIs, web applications, and process automations with **TypeScript**, **NestJS**, **Next.js**, and **Python**.
+Backend & Full Stack Developer based in Recife, Brazil. Currently studying **Systems Analysis and Development (ADS) at CESAR School** and working as a **Full Stack Development Intern at ARPE** (Pernambuco State Regulatory Agency), building reliable APIs, web applications, and process automations with **TypeScript**, **NestJS**, **Next.js**, and **Python**.
 
 ---
 
